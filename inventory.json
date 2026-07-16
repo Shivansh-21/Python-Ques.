@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "Nothing 4A",
+        "Price": "33000",
+        "Category": "Mobile Phone",
+        "Quantity": "5"
+    },
+    {
+        "Name": "DELL i7",
+        "Price": "99000",
+        "Category": "Laptop",
+        "Quantity": "2"
+    },
+    {
+        "Name": "OnePlus Buds5",
+        "Price": "5500",
+        "Category": "Earbuds",
+        "Quantity": "10"
+    },
+    {
+        "Name": "MacBook Pro M5",
+        "Price": "165000",
+        "Category": "MacBook",
+        "Quantity": "1"
+    },
+    {
+        "Name": "Zebronics 550",
+        "Price": "3300",
+        "Category": "Powerbank",
+        "Quantity": "8"
+    },
+    {
+        "Name": "Samsung SuperCharging",
+        "Price": "11000",
+        "Category": "Adapter",
+        "Quantity": "20"
+    }
+]
