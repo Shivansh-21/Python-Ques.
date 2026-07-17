@@ -24,7 +24,7 @@ def calculate_tax(*salaries):
         return total_tax
 
     except BaseException:
-        print("Invalid salary entry or some error occurred")
+        print("Invalid salary entry ")
 result = calculate_tax(30000, 40000, 50000)
 print("Total tax:", result)
         
