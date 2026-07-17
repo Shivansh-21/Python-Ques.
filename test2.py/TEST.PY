@@ -1,8 +1,5 @@
 #Que 1. Using list comprehension, create a list of all numbers from 1 to 50 that are divisible by 3. Print the list and also print its length. [5 marks] 
-a=[]
-for i in range(1,51):
-    if i%3==0:
-        a.append(i)
+a=[i for i in range(1,51)if i%3==0]
 print("No. divisible by 3 from 1-50: ",a)
 print("Length: ",(len(a)))
 
